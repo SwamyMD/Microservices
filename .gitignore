@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Microservices/.vs/Microservices
+/Microservices/MicroserviceOne/bin/Debug/net8.0
+/Microservices/MicroserviceOne/obj
+/Microservices/MicroserviceThree/obj
+/Microservices/MicroserviceTwo/obj
